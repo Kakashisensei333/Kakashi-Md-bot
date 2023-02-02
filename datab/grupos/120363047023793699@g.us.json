@@ -1,0 +1,59 @@
+[
+  {
+    "name": "⚫𝚨𝚴𝐆𝚵𝐋'𝐒🇯🇵⃟  ˢᵗⁱᶜᵏᵉʳˢ⚫",
+    "groupId": "120363047023793699@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": true,
+    "antifake": true,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "antiporn": false,
+    "sistemGold": false,
+    "listanegra": [],
+    "advertir": [],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "prefixo_unico": null,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "#numerodele# *_Beм-vɪnɗo_*\n ▂▃▅▇█▓▒░⁨ ░▒▓█▇▅▃▂\n_*⚫𝚨𝚴𝐆𝚵𝐋'𝐒🇯🇵⃟   ˢᵗⁱᶜᵏᵉʳˢ⚫*_\n     *•┅┄┄┄┄•°◈°•┄┄┄┄┅•*\n_αηtes ɗe peɗɪr, postα seus *stɪckers.* Fɪcαr ηα moɪtα é *BAN.* NÃO se αpresente, leɪα αs regrαs._",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": true,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "name": "❮ Chat Aleatory - Ofc ❯",
+    "groupId": "120363041759698518@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "antiporn": false,
+    "sistemGold": false,
+    "listanegra": [
+      "557981342092@s.whatsapp.net"
+    ],
+    "advertir": [],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "prefixo_unico": null,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": true,
+        "legendabv": "Olá 👋 #numerodele# você entrou #hora# seja bem vindo leia as regras clicando abaixo",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": true,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

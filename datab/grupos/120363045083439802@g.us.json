@@ -1,0 +1,59 @@
+[
+  {
+    "name": "シℍøƧρíℂîø ∂øƧ ₳₥ł₲Ø₴ Ø₣₵シ",
+    "groupId": "120363045083439802@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": true,
+    "antiloc": false,
+    "antilinkgp": true,
+    "antilinkhard": true,
+    "antifake": true,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "antiporn": false,
+    "sistemGold": false,
+    "listanegra": [],
+    "advertir": [],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "prefixo_unico": null,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": true,
+        "legendabv": "oi #numerodele# tudo bem? clica no botao abaixo pra ler as regras no seu pv",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]
