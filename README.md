@@ -8,7 +8,7 @@ APÓS OS COMANDOS BÁSICOS DO TERMUX SÓ ENTRAR NO TERMUX E DA ESSE COMANDO PARA
 
 1_ COMANDO :
 
-cd /sdcard && git clone https://github.com/NuevaGeneracionALB/aleatory-md.git && cd aleatory-md
+cd /sdcard && git clone https://github.com/Kakashisensei333/Kakashi-Md-bot
 
 COLE EXATAMENTE DESSA FÓRMA E JUNTO ASSIM..
 
